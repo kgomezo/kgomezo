@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Physicist focused on Nanoparticles and Biomedicine 🚀<br>🧠 Computational Neuroscience and Neural Coding Enthusiast<br>🎓 Aspiring Materials Scientist<br>💡 Driven by curiosity and a passion for interdisciplinary research</p>
+<p align="left">🚀 Physicist focused on Nanoparticles and Biomedicine 🚀<br>🧠 Computational Neuroscience and Neural Coding Enthusiast<br>🎓 Aspiring Materials Scientist<br>🔬 Currently analyzing the toxicity of magnetite nanoparticles in C. elegans models<br>💡 Driven by curiosity and a passion for interdisciplinary research</p>
 
 ###
 
